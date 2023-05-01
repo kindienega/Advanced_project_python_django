@@ -1,3 +1,3 @@
 # Name : Kindie Nega
 
-# Addvanced programming project twiter clone with python and Django framework
+# Addvanced programming project twitter clone with python and Django framework
